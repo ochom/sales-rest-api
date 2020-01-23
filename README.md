@@ -3,7 +3,7 @@
     <u>Supplier-Client api for building custom applications for the supply chain</u></h3>
 		<h4>Instroduction</h4>
 		<p>This restful api is build with django rest framework and provides simplicity in creating a supply application using webapps and or mobile applications
-    <br>The hosted api is available at <a href="ochom.pythoneverywhere.com/api1/">This LINK</a>    
+    <br>The hosted api is available at <a href="http://ochom.pythoneverywhere.com/api1/">This LINK</a>    
 		<h5>You can download the zip file available <strong>SAMPLE</strong> and run it from your local machine</h5>
     <b>Models are:<b><br>
 	<ul>
